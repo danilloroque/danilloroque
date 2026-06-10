@@ -20,7 +20,7 @@
 
 Sou formado como **Técnico em Automação Industrial** pela ETEC e atualmente curso **Bacharelado em Engenharia de Software** pela **FIAP** (2026–2029).
 
-Mais do que escrever código, me preocupo em entender os **requisitos e fundamentos** de cada problema para entregar **valor real ao usuário**. Acredito que tecnologia é aprendizado contínuo — e estou em busca da minha **primeira oportunidade (Estágio ou Júnior)** para aplicar proatividade e responsabilidade enquanto evoluo tecnicamente.
+Mais do que escrever código, me preocupo em entender os **requisitos e fundamentos** de cada problema para entregar **valor real ao usuário**. Acredito que tecnologia é aprendizado contínuo e sigo aprendendo e procurando saber mais a cada dia!
 
 ---
 
@@ -52,6 +52,7 @@ Mais do que escrever código, me preocupo em entender os **requisitos e fundamen
 - ❤️ Inteligência emocional
 - 👑 Liderança
 - ✅ Ética profissional
+- ❓ Curiosidade sobre novas aprendizagens
 
 ---
 
@@ -75,5 +76,5 @@ Mais do que escrever código, me preocupo em entender os **requisitos e fundamen
 ---
 
 <p align="center">
-  <em>💡 "A tecnologia é um aprendizado contínuo." — Danillo Roque</em>
+  <em>💡 "Errar não é errado, errado é persistir no erro." — Danillo Roque</em>
 </p>
