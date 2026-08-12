@@ -69,8 +69,8 @@ Mais do que escrever código, me preocupo em entender os **requisitos e fundamen
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danilloroque&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilloroque&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img src="https://img.shields.io/github/followers/danilloroque?style=for-the-badge&logo=github&color=7dcfff&labelColor=1a1b26" />
+  <img src="https://img.shields.io/github/stars/danilloroque?style=for-the-badge&logo=github&color=7dcfff&labelColor=1a1b26" />
 </p>
 
 ---
