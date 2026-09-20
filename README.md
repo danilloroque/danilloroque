@@ -66,7 +66,7 @@ Mais do que escrever código, me preocupo em entender os **requisitos e fundamen
 |---|---|
 | 🇧🇷 Português | Nativo |
 | 🇺🇸 Inglês | Avançado |
-| 🇪🇸 Espanhol | Intermediário |
+| 🇪🇸 Espanhol | Básico |
 
 ---
 
